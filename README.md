@@ -13,7 +13,6 @@ Fruit Classifier is a machine learning-based web application that identifies dif
 ## Tech Stack
 - **Programming Language**: Python
 - **Frameworks & Libraries**: Flask, TensorFlow/Keras, OpenCV, NumPy
-- **Database**: SQLite (if needed for logging queries)
 - **Developer Tools**: Postman (for API testing), Git, Visual Studio Code
 
 ## Installation
